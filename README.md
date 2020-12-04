@@ -9,4 +9,5 @@
 ## copy typescript dependencie from dev-dependencies to dependencies
 ## npm install express path --save
 ## create and configure server.js in root folder of the application
-## replace command "start":"node server.js" in package.json
+## change "start" command to "start":"node server.js" in package.json
+## add changes to git and push to master
