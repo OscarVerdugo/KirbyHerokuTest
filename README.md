@@ -1,3 +1,7 @@
+## heroku login
+## create new app
+## link your github account to heroku
+## select your repo
 ## npm install @angular/cli@latest @angular/compiler-cli -D
 ## copy @angular/cli and @angular/compiler-cli dependencies from dev-dependencies to dependencies
 ## add command "heroku-postbuild":"ng build --prod" to scripts section in package.json
